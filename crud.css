@@ -1,0 +1,125 @@
+.lg-nav {
+  background-color: #fff1ec;
+  height: 100vh;
+}
+.test {
+  color: aqua;
+}
+.notekeeper-icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+}
+.gdmg {
+  font-size: 15px;
+  color: black;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.new-note-bg {
+  background-color: #ffdbcb;
+  height: 35px;
+  width: 110px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  border-width: 0px;
+  border-style: solid;
+}
+.new-note-header {
+  font-size: 12px;
+  text-align: center;
+}
+.notebooks-css {
+  font-size: 15px;
+  margin-left: 10px;
+}
+.plus-symb {
+  background-color: #ffdbcb;
+
+  height: 25px;
+  width: 25px;
+  font-size: 15px;
+  margin-left: auto;
+  border-width: 0px;
+  border-style: solid;
+  padding: 3px;
+  margin-top: 30px;
+}
+.goodmg {
+  font-size: 20px;
+  color: black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.date {
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.input-css {
+  width: 150px;
+  margin-top: 20px;
+}
+
+.new-note-header-js {
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.save {
+  position: absolute;
+  bottom: 0px;
+}
+.delete-icon-container {
+  margin-left: auto;
+  width: 15%;
+  margin-top: 10px;
+}
+.userDIv {
+  background-color: #ffdbcb;
+  color: black;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+
+  width: 250px;
+}
+.user-form {
+  display: none;
+}
+.user-can-see {
+  display: block;
+}
+.display-card {
+  background-color: #fff8f6;
+  height: 200px;
+  width: auto;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 30px;
+  margin-right: 20px;
+}
+.display-card-header {
+  font-size: 15px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+.display-card-para {
+  font-size: 15px;
+}
+.todo-delete {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.selected-d{
+  background-color: #fff1ec ;
+}
+.selected-d.active {
+  background-color: palevioletred;
+}
